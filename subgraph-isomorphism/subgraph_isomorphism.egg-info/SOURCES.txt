@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+qsubgisom/__init__.py
+qsubgisom/qsubgisom.py
+subgraph_isomorphism.egg-info/PKG-INFO
+subgraph_isomorphism.egg-info/SOURCES.txt
+subgraph_isomorphism.egg-info/dependency_links.txt
+subgraph_isomorphism.egg-info/requires.txt
+subgraph_isomorphism.egg-info/top_level.txt
